@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-weight: 1000;
+  font-size:larger;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+  color: #fff;
+}
+html,
+body{
+  height: 100%;
+  width: 100%;
+}
+body{
+  background: #111;
+}
